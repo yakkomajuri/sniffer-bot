@@ -1,0 +1,5 @@
+{
+    "wordsToIgnore": ["and", "a", "an", "the", "for", "on", "at", "in", "is", "are", "to", "as", "by", "with", "to", "did", "was", "can", "will", "does", "do"],
+    "certainMatchPctg": 70,
+    "potentialMatchPctg": 35
+}

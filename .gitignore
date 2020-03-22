@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+results2.json
+scraper2.js
+apiconfig.json
+accessed-links.json
+
