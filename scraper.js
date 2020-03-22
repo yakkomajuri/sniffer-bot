@@ -13,8 +13,9 @@ var articles = [];
 // PRIMORDIAL SCRAPPER 
 // ADVANCED SCRAPPER NOT PUBLIC YET
 
-const url = 'https://www.snopes.com/50-hottest-urban-legends/';
+const url = 'TARGET_DEST';
 
+// Scraper must be adjusted to each page
 rp(url)
     .then(function (html) {
         for (var i = 0; i < 49; i++) {
